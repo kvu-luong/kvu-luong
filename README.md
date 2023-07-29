@@ -6,15 +6,11 @@
 
 - ⚡ Fun fact **I love to play Soccer.**
 
-### Connect with me:
-<br />
-
-### Languages
-
-<p align="left">
-<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" width="22" height="22"/> NodeJS
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwMYfXwqnJjxmBkBXmO2le8N8smCqT-84vQ&usqp=CAU" alt="Javascript" width="22" height="22"/> Javascript
-
+### Tech Stacks
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ### Technologies
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpcmpYt4fJjsJ1V-MptAANqXO_4J7v0n2zw&usqp=CAU" alt="Kafka" width="22" height="22"/> Kafka
 <img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" alt="RabbitMQ" width="22" height="22"/> RabbitMQ
